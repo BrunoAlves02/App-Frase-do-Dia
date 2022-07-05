@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FraseDoDia</string>
+    <string name="btn_frase">NOVA FRASE</string>
+    <string name="txt_inicio">Uma grande frase, de inúmeros filósofos lhe-aguarda..</string>
+</resources>
